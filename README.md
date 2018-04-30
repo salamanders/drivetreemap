@@ -3,7 +3,7 @@ Visualize your Google Drive used space using JavaScript, Google's Treemap widget
 
 
 * https://drivetreemap.firebaseapp.com
-* https://drive.google.com/corp/drive/quota
+* https://drive.google.com/drive/quota
 
 
 # NOTES
